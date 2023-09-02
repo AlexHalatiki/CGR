@@ -19,6 +19,7 @@ Release
 x64
 Dependencies
 .vs
+.sln
 *.suo
 *.csproj.user
 *.vbproj.user
